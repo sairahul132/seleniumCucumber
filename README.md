@@ -9,7 +9,6 @@ You can see pieces of framework components that build on every git branch.
 For example, you want to see how `Hooks` is implemented in the framework.
 Just select the `Hooks` branch then you will see the magic.
 
-![select branch](https://github.com/yazidisme/image-attachment/blob/master/seleniumcucumberframework1.png)
 
 If you want to go back to the current branch, you can select `main` as the default branch.
 
